@@ -1,0 +1,14 @@
+# development:
+#   sessions:
+#     default:
+#       uri: mongodb://user:pass@host:port/database_name
+#
+# test:
+#   sessions:
+#     default:
+#       uri: mongodb://user:pass@host:port/database_name
+#
+# test:
+#   sessions:
+#     default:
+#       uri: mongodb://user:pass@host:port/database_name
